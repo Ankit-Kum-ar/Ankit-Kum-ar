@@ -71,7 +71,8 @@ Feel free to connect with me or check out my projects!
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abhi9354/Abhi9354/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Ankit-Kum-ar/Ankit-Kum-ar/output/snake.svg" alt="Snake animation" />
 
 ###
 
