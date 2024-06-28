@@ -67,12 +67,4 @@ Feel free to connect with me or check out my projects!
 </div>
 
 ###
-###
-
-<br clear="both">
-
-
-<img src="https://raw.githubusercontent.com/Ankit-Kum-ar/Ankit-Kum-ar/output/snake.svg" alt="Snake animation" />
-
-###
 
