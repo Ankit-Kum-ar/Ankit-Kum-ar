@@ -3,7 +3,7 @@
 I'm a driven 4th-year BTech Computer Science Engineering student specializing in frontend development. My current focus is mastering the Redux library to improve state management in my applications. With a strong foundation in web technologies, I'm always eager to learn and grow in this ever-evolving field.
 
 ## 🚀 Skills:
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, Redux
 - **Other Tech:** Git
 
 ## 🎯 Goals:
