@@ -1,70 +1,78 @@
 # Hi there! I'm Ankit Kumar 👋
 
-I'm a driven 4th-year BTech Computer Science Engineering student specializing in frontend development. My current focus is mastering the Redux library to improve state management in my applications. With a strong foundation in web technologies, I'm always eager to learn and grow in this ever-evolving field.
+Welcome to my GitHub space! I'm a **4th-year BTech Computer Science Engineering student**, specializing in **frontend and backend development**. I’m passionate about building dynamic, scalable, and visually appealing web applications. I believe in continuous learning and strive to stay ahead in this ever-evolving tech world.
 
-## 🚀 Skills:
-- **Frontend:** HTML, CSS, JavaScript, React, Redux
-- **Other Tech:** Git
+---
 
-## 🎯 Goals:
-- To build scalable and robust web applications
-- To contribute to open source projects
-- To engage in continuous learning and stay updated with the latest tech trends
+## 🚀 Skills at a Glance
 
-Feel free to connect with me or check out my projects!
+### **Frontend Development**
+- **Languages & Frameworks:** React.js, Redux Toolkit, TailwindCSS, ShadCN UI, DaisyUI, Bootstrap, HTML, CSS, JavaScript
 
-## ❓ Ask me about:
-- Frontend development
-- State management with Redux
-- Best practices in web development
-- Getting started with open source
+### **Backend Development**
+- **Languages & Frameworks:** Node.js, Express.js
+- **Database Technologies:** MongoDB, PostgreSQL
+- **API Tools:** RESTful APIs, Postman
 
-###
+### **Programming Languages**
+- C, C++, Java, Python
+
+### **Other Technologies**
+- **Version Control:** Git, GitHub
+- **Development Tools:** VS Code, Postman
+
+---
+
+## 🛠️ Tech Stack and Tools
+
+### Frontend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" title="React.js" style="background-color: #20232a; border-radius: 5px; padding: 3px;" /> **React.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" style="background-color: #f7df1e; border-radius: 5px; padding: 3px;" /> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" title="HTML5" style="background-color: #e34c26; border-radius: 5px; padding: 3px;" /> **HTML5**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" title="CSS3" style="background-color: #1572b6; border-radius: 5px; padding: 3px;" /> **CSS3**
+- <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="TailwindCSS" title="TailwindCSS" style="background-color: #38b2ac; border-radius: 5px; padding: 3px;" /> **TailwindCSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" title="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 3px;" /> **Bootstrap**
+- <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo.svg" height="30" alt="DaisyUI" title="DaisyUI" style="background-color: white; border-radius: 5px; padding: 3px;" /> **DaisyUI**
+
+### Backend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" title="Node.js" style="background-color: #026e00; border-radius: 5px; padding: 3px;" /> **Node.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" title="Express.js" style="background-color: white; border-radius: 5px; padding: 3px;" /> **Express.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="MongoDB" style="background-color: #47a248; border-radius: 5px; padding: 3px;" /> **MongoDB**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" style="background-color: #336791; border-radius: 5px; padding: 3px;" /> **PostgreSQL**
+
+### Tools
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" title="VS Code" style="background-color: #007acc; border-radius: 5px; padding: 3px;" /> **VS Code**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub" style="background-color: white; border-radius: 5px; padding: 3px;" /> **GitHub**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" style="background-color: #f05032; border-radius: 5px; padding: 3px;" /> **Git**
+- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman" title="Postman" style="background-color: white; border-radius: 5px; padding: 3px;" /> **Postman**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankit-Kum-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit-Kum-ar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ankit-Kum-ar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit-Kum-ar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" alt="Languages Graph" />
 </div>
 
-###
-<hr/>
-###
+---
 
-<div align="left">
-</div>
+## ❓ Ask Me About:
+- Building interactive UI/UX with React.js and TailwindCSS.
+- Efficient state management with Redux Toolkit.
+- Backend development with Node.js and Express.js.
+- Best practices in web development.
+- Getting started with open-source contributions.
 
-###
+---
 
-<img align="right" height="190" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+## 📫 Let's Connect!
 
-### Languages and Tools: - 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+- **LinkedIn:** [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-41a243240/)
+- **Portfolio:** [ankitkumar.dev](https://ankit--roan.vercel.app/)
+- **Email:** [ankitkumar@example.com](mailto:ankitkrr2511@gmail.com)
 
-###
+---
 
+## 🌟 Fun Fact:
+> "I believe that **code** is like magic ✨; with a few keystrokes, we can create something extraordinary that impacts lives!"
