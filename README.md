@@ -70,7 +70,7 @@ Welcome to my GitHub space! I'm a **4th-year BTech Computer Science Engineering 
 
 - **LinkedIn:** [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-41a243240/)
 - **Portfolio:** [ankitkumar.dev](https://ankit--roan.vercel.app/)
-- **Email:** [ankitkumar@example.com](mailto:ankitkrr2511@gmail.com)
+- **Email:** [ankitkrr2511@gmail.com](mailto:ankitkrr2511@gmail.com)
 
 ---
 
